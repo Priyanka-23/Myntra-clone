@@ -1,0 +1,32 @@
+h1,
+p {
+  font-family: Lato;
+}
+h1 {
+  text-align: center;
+}
+.heading {
+  display: flex;
+  justify-content: center;
+}
+.logo {
+  width: 120px;
+}
+aside {
+  padding: 20px;
+}
+.products {
+  /* width: 100px; */
+  display: flex;
+  justify-content: space-evenly;
+  /* background: 3px solid rgba(90, 88, 88, 0.9); */
+
+  flex-wrap: wrap;
+}
+.searchBox {
+  border-radius: 10px;
+  justify-self: center;
+  min-width: 80%;
+  padding: 10px;
+  margin: 10px;
+}
