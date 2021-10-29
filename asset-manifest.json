@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Myntra-clone/static/css/main.d4e9bfcc.chunk.css",
+    "main.js": "/Myntra-clone/static/js/main.c840ebf9.chunk.js",
+    "main.js.map": "/Myntra-clone/static/js/main.c840ebf9.chunk.js.map",
+    "runtime-main.js": "/Myntra-clone/static/js/runtime-main.bac110f0.js",
+    "runtime-main.js.map": "/Myntra-clone/static/js/runtime-main.bac110f0.js.map",
+    "static/js/2.29dcea68.chunk.js": "/Myntra-clone/static/js/2.29dcea68.chunk.js",
+    "static/js/2.29dcea68.chunk.js.map": "/Myntra-clone/static/js/2.29dcea68.chunk.js.map",
+    "index.html": "/Myntra-clone/index.html",
+    "static/css/main.d4e9bfcc.chunk.css.map": "/Myntra-clone/static/css/main.d4e9bfcc.chunk.css.map",
+    "static/js/2.29dcea68.chunk.js.LICENSE.txt": "/Myntra-clone/static/js/2.29dcea68.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.bac110f0.js",
+    "static/js/2.29dcea68.chunk.js",
+    "static/css/main.d4e9bfcc.chunk.css",
+    "static/js/main.c840ebf9.chunk.js"
+  ]
+}
